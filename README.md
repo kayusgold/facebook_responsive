@@ -1,6 +1,7 @@
 # facebook_responsive
 
-A new Flutter project.
+A Flutter Project based on MarcusNg Tutorial. This is a Facebook Web & Mobile UI Clone that is responsive based on Device.
+
 
 ## Getting Started
 
